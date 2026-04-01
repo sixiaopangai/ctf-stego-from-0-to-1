@@ -1,0 +1,21 @@
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Microsoft Office temporary files
+~$*.doc
+~$*.docx
+~$*.ppt
+~$*.pptx
+~$*.xls
+~$*.xlsx
+
+# Local Node dependencies
+scripts/media_builder/node_modules/
+
+# Package manager debug logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
