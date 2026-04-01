@@ -28,6 +28,7 @@
 | [`scripts/README.md`](./scripts/README.md) | 辅助脚本说明、依赖与示例命令 |
 | [`docs/文档规划.md`](./docs/文档规划.md) | 项目文档分层、维护边界与发布建议 |
 | [`docs/README写作规范.md`](./docs/README写作规范.md) | 顶层与子目录 README 的统一写法规范 |
+| [`CONTRIBUTING.md`](./CONTRIBUTING.md) | 贡献指南，说明目录规则、文档约定与提交方式 |
 | [`CTF隐写从0到1-完整版.md`](./CTF隐写从0到1-完整版.md) | 整合版讲义 Markdown 源稿 |
 | [`CTF隐写从0到1-完整版.docx`](./CTF隐写从0到1-完整版.docx) | 整合版 Word 讲义 |
 | [`CTF隐写从0到1-完整版.pdf`](./CTF隐写从0到1-完整版.pdf) | 整合版 PDF 讲义 |
@@ -94,6 +95,7 @@
 
 - [`docs/文档规划.md`](./docs/文档规划.md)：定义首页、章节、练习区、脚本区各自职责
 - [`docs/README写作规范.md`](./docs/README写作规范.md)：统一 README 结构、标题层级、链接风格与更新规则
+- [`CONTRIBUTING.md`](./CONTRIBUTING.md)：贡献流程、目录规则与提交约定
 
 当前策略是：
 
